@@ -11,7 +11,7 @@
 <br>
 
 ### 🔗 Link
-https://www.notion.so/01f7465bf1ae42a3a4ec46d383277d00
+https://iron-corn-648.notion.site/c1306bca05314e6b810c8c2dbfda446e
 <br><br>
 
 ### 🛠️ 개발 환경
